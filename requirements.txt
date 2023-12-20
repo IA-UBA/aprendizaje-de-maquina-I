@@ -6,3 +6,4 @@ seaborn
 jupyter
 imbalanced-learn
 statsmodels
+umap-learn
