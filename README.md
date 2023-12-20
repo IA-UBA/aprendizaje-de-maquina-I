@@ -12,10 +12,11 @@
 - `requirements.`txt: Dependencias y paquetes necesarios para replicar el entorno.
 
 ## Orden de archivos
-1. EDA.ipynb
-2. Missing_Values_Analysis.ipynb
-3. Embeddings_Visualization.ipynb
-4. DataPreparation.ipynb
+1. Intro.ipynb
+2. EDA.ipynb
+3. Missing_Values_Analysis.ipynb
+4. Embeddings_Visualization.ipynb
+5. DataPreparation.ipynb
 
 ## Instrucciones para la Instalación y Ejecución
 
