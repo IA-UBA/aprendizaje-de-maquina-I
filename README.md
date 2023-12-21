@@ -17,6 +17,8 @@
 3. Missing_Values_Analysis.ipynb
 4. Embeddings_Visualization.ipynb
 5. DataPreparation.ipynb
+6. Models_Evaluation.ipynb
+7. Conclusions.ipynb
 
 ## Instrucciones para la Instalación y Ejecución
 
